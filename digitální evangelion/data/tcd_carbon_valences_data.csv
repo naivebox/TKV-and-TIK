@@ -1,0 +1,91 @@
+ID;Pocet_Vazeb;Uhly_Mezi_Vazbami;Celkove_Pnuti
+2H_test_0;2;[np.float64(108.9)];194865.67
+2H_test_1;2;[np.float64(129.5)];191335.72
+2H_test_2;2;[np.float64(92.0)];200841.39
+2H_test_3;2;[np.float64(140.0)];195100.83
+2H_test_4;2;[np.float64(25.5)];193376.14
+2H_test_5;2;[np.float64(118.4)];199503.44
+2H_test_6;2;[np.float64(155.2)];196253.79
+2H_test_7;2;[np.float64(79.7)];199715.88
+2H_test_8;2;[np.float64(109.2)];194091.33
+2H_test_9;2;[np.float64(83.8)];190280.75
+2H_test_10;2;[np.float64(63.9)];195882.65
+2H_test_11;2;[np.float64(67.7)];195725.34
+2H_test_12;2;[np.float64(87.4)];200506.53
+2H_test_13;2;[np.float64(61.9)];199853.6
+2H_test_14;2;[np.float64(101.1)];200071.6
+2H_test_15;2;[np.float64(119.7)];199389.46
+2H_test_16;2;[np.float64(51.3)];202981.86
+2H_test_17;2;[np.float64(62.4)];189115.67
+2H_test_18;2;[np.float64(134.8)];198269.94
+2H_test_19;2;[np.float64(148.4)];196708.39
+2H_test_20;2;[np.float64(16.0)];193980.41
+2H_test_21;2;[np.float64(32.5)];196509.68
+2H_test_22;2;[np.float64(63.0)];188939.47
+2H_test_23;2;[np.float64(57.6)];198779.04
+2H_test_24;2;[np.float64(81.9)];199405.42
+2H_test_25;2;[np.float64(156.7)];194739.38
+2H_test_26;2;[np.float64(148.2)];196947.6
+2H_test_27;2;[np.float64(100.5)];198313.33
+2H_test_28;2;[np.float64(11.8)];190198.77
+2H_test_29;2;[np.float64(78.5)];189757.92
+3H_test_0;3;[np.float64(80.7), np.float64(151.8), np.float64(126.8)];201196.64
+3H_test_1;3;[np.float64(66.9), np.float64(58.8), np.float64(95.7)];200575.33
+3H_test_2;3;[np.float64(47.9), np.float64(114.0), np.float64(100.2)];196548.58
+3H_test_3;3;[np.float64(125.7), np.float64(136.5), np.float64(74.2)];197746.45
+3H_test_4;3;[np.float64(46.3), np.float64(113.5), np.float64(139.8)];204003.71
+3H_test_5;3;[np.float64(81.8), np.float64(129.7), np.float64(145.7)];204425.41
+3H_test_6;3;[np.float64(69.0), np.float64(118.0), np.float64(48.9)];205828.0
+3H_test_7;3;[np.float64(106.9), np.float64(152.5), np.float64(99.9)];199572.11
+3H_test_8;3;[np.float64(119.6), np.float64(50.6), np.float64(72.3)];193571.45
+3H_test_9;3;[np.float64(98.9), np.float64(32.5), np.float64(69.9)];193040.45
+3H_test_10;3;[np.float64(129.2), np.float64(94.2), np.float64(49.9)];198811.49
+3H_test_11;3;[np.float64(109.1), np.float64(71.4), np.float64(68.3)];198006.01
+3H_test_12;3;[np.float64(69.7), np.float64(48.5), np.float64(36.8)];195015.68
+3H_test_13;3;[np.float64(119.8), np.float64(86.0), np.float64(131.5)];201592.85
+3H_test_14;3;[np.float64(116.7), np.float64(28.0), np.float64(91.6)];201026.47
+3H_test_15;3;[np.float64(24.9), np.float64(108.3), np.float64(116.3)];196208.07
+3H_test_16;3;[np.float64(95.8), np.float64(147.9), np.float64(98.9)];196947.44
+3H_test_17;3;[np.float64(100.9), np.float64(106.8), np.float64(133.4)];197652.18
+3H_test_18;3;[np.float64(85.6), np.float64(67.0), np.float64(107.5)];204715.15
+3H_test_19;3;[np.float64(142.1), np.float64(46.5), np.float64(165.4)];199183.38
+3H_test_20;3;[np.float64(156.3), np.float64(84.2), np.float64(104.9)];203798.47
+3H_test_21;3;[np.float64(154.5), np.float64(129.5), np.float64(71.0)];200307.79
+3H_test_22;3;[np.float64(111.5), np.float64(159.0), np.float64(48.8)];197554.82
+3H_test_23;3;[np.float64(93.5), np.float64(20.0), np.float64(73.7)];202580.87
+3H_test_24;3;[np.float64(35.4), np.float64(29.0), np.float64(28.4)];200261.55
+3H_test_25;3;[np.float64(90.5), np.float64(32.7), np.float64(92.4)];200623.49
+3H_test_26;3;[np.float64(29.1), np.float64(61.2), np.float64(52.4)];209499.04
+3H_test_27;3;[np.float64(157.9), np.float64(132.7), np.float64(35.1)];201123.22
+3H_test_28;3;[np.float64(67.6), np.float64(22.9), np.float64(61.7)];200353.35
+3H_test_29;3;[np.float64(116.7), np.float64(45.7), np.float64(144.8)];206240.66
+4H_test_0;4;[np.float64(75.2), np.float64(132.4), np.float64(79.5), np.float64(86.5), np.float64(113.4), np.float64(147.1)];212321.71
+4H_test_1;4;[np.float64(152.4), np.float64(75.8), np.float64(106.1), np.float64(77.6), np.float64(86.0), np.float64(131.2)];210256.77
+4H_test_2;4;[np.float64(57.3), np.float64(67.2), np.float64(144.0), np.float64(124.1), np.float64(135.4), np.float64(94.5)];206779.89
+4H_test_3;4;[np.float64(43.8), np.float64(82.6), np.float64(111.0), np.float64(59.2), np.float64(127.8), np.float64(75.0)];199038.14
+4H_test_4;4;[np.float64(102.5), np.float64(42.1), np.float64(135.8), np.float64(60.4), np.float64(110.2), np.float64(150.5)];204659.29
+4H_test_5;4;[np.float64(142.4), np.float64(124.3), np.float64(17.9), np.float64(67.8), np.float64(137.8), np.float64(106.7)];207287.99
+4H_test_6;4;[np.float64(125.2), np.float64(119.9), np.float64(56.6), np.float64(43.3), np.float64(95.6), np.float64(131.8)];201306.29
+4H_test_7;4;[np.float64(11.8), np.float64(81.2), np.float64(72.2), np.float64(76.1), np.float64(78.8), np.float64(58.5)];214801.96
+4H_test_8;4;[np.float64(104.4), np.float64(37.5), np.float64(55.3), np.float64(130.3), np.float64(77.1), np.float64(90.6)];201033.68
+4H_test_9;4;[np.float64(98.0), np.float64(148.4), np.float64(88.8), np.float64(113.5), np.float64(92.5), np.float64(87.3)];210668.96
+4H_test_10;4;[np.float64(122.0), np.float64(119.4), np.float64(134.1), np.float64(118.0), np.float64(34.7), np.float64(92.7)];205678.32
+4H_test_11;4;[np.float64(62.7), np.float64(140.7), np.float64(120.8), np.float64(153.0), np.float64(114.5), np.float64(47.3)];208940.41
+4H_test_12;4;[np.float64(42.3), np.float64(56.0), np.float64(27.3), np.float64(98.2), np.float64(47.2), np.float64(63.8)];216886.63
+4H_test_13;4;[np.float64(145.3), np.float64(105.2), np.float64(58.7), np.float64(42.3), np.float64(119.5), np.float64(89.9)];205050.74
+4H_test_14;4;[np.float64(105.8), np.float64(119.1), np.float64(167.1), np.float64(18.3), np.float64(61.8), np.float64(49.8)];207022.73
+4H_test_15;4;[np.float64(148.8), np.float64(59.0), np.float64(99.5), np.float64(123.5), np.float64(57.4), np.float64(74.7)];215999.64
+4H_test_16;4;[np.float64(126.6), np.float64(111.3), np.float64(130.6), np.float64(98.3), np.float64(98.3), np.float64(33.2)];205528.66
+4H_test_17;4;[np.float64(82.3), np.float64(50.9), np.float64(92.0), np.float64(32.2), np.float64(76.6), np.float64(86.9)];197826.03
+4H_test_18;4;[np.float64(97.7), np.float64(59.4), np.float64(91.9), np.float64(102.3), np.float64(130.4), np.float64(44.2)];209676.77
+4H_test_19;4;[np.float64(92.8), np.float64(10.2), np.float64(72.3), np.float64(102.8), np.float64(145.7), np.float64(65.0)];213145.31
+4H_test_20;4;[np.float64(83.2), np.float64(126.6), np.float64(38.9), np.float64(108.1), np.float64(120.0), np.float64(99.7)];206945.83
+4H_test_21;4;[np.float64(86.4), np.float64(86.0), np.float64(109.2), np.float64(48.5), np.float64(38.0), np.float64(81.5)];214531.54
+4H_test_22;4;[np.float64(132.7), np.float64(82.5), np.float64(70.0), np.float64(54.9), np.float64(62.8), np.float64(30.4)];198165.07
+4H_test_23;4;[np.float64(84.4), np.float64(123.7), np.float64(117.4), np.float64(149.0), np.float64(42.4), np.float64(107.2)];214398.81
+4H_test_24;4;[np.float64(39.6), np.float64(141.0), np.float64(140.7), np.float64(129.2), np.float64(177.2), np.float64(48.3)];204377.06
+4H_test_25;4;[np.float64(42.7), np.float64(47.6), np.float64(107.5), np.float64(81.7), np.float64(136.8), np.float64(97.1)];201385.12
+4H_test_26;4;[np.float64(61.7), np.float64(18.4), np.float64(40.6), np.float64(43.9), np.float64(100.1), np.float64(56.6)];205692.62
+4H_test_27;4;[np.float64(150.2), np.float64(61.9), np.float64(163.9), np.float64(103.7), np.float64(15.7), np.float64(116.3)];204621.43
+4H_test_28;4;[np.float64(36.9), np.float64(51.3), np.float64(28.7), np.float64(27.6), np.float64(38.5), np.float64(33.0)];220267.24
+4H_test_29;4;[np.float64(111.1), np.float64(128.0), np.float64(132.4), np.float64(18.9), np.float64(106.2), np.float64(94.8)];205497.38
